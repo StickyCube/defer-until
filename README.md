@@ -155,7 +155,7 @@ defer.extend({
 the poll option is already handled for you.
 
 ### Issues and Improvements
-please submit issues and ideas for improvements on the github [issue tracker]() page.
+please submit issues and ideas for improvements on the github [issue tracker](https://github.com/StickyCube/defer-until/issues) page.
 
 ### Contributing
 Please try to maintain the code style using jscs.
