@@ -1,0 +1,39 @@
+{
+  "name": "defer-until",
+  "version": "1.0.0",
+  "description": "A utility for deferring function calls",
+  "main": "inxdex.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "keywords": [
+    "defer-until",
+    "delay",
+    "queue",
+    "queue functions",
+    "defer",
+    "defer functions",
+    "function"
+  ],
+  "author": "stickycube",
+  "license": "ISC",
+  "dependencies": {
+    "bind-plus": "^1.0.0",
+    "deep-equal": "^1.0.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StickyCube/defer-until.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StickyCube/defer-until/issues"
+  },
+  "homepage": "https://github.com/StickyCube/defer-until#readme"
+}
