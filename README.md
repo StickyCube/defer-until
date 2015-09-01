@@ -49,7 +49,7 @@ socket.send('HI'); // deferred until socket.connection.constructor === net.Socke
 ```
 ## Important notes:
 
-- #### Condition Fulfillment
+#### - Condition Fulfillment
 
 Deferred calls will only be invoked when the condition is met. by default the condition is tested when the function is called.
 
@@ -81,7 +81,7 @@ foo.bar = 2; // this will trigger the invocation of the deferred functions
 ```
 
 
-- #### Return Values
+#### - Return Values
 
 Deferred functions will return an instance of the context (`this`), this provides at least some support for chaining methods.
 
